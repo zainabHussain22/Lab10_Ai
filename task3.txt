@@ -1,0 +1,1 @@
+The concepts learned in this lab can be applied to our practical course project by using Prolog rules and operators to perform calculations, compare values, and make decisions. For example, conditional rules can check whether specific conditions are satisfied and display the appropriate result. This helps implement logical decision-making in an artificial intelligence system.
